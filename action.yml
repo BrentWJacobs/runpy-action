@@ -1,8 +1,8 @@
-name: "Run Python Script"
-description: "Run a custom python snippet inside a workflow file"
+name: "Run Py Script"
+description: "Run a custom python in a workflow"
 inputs:
   script:
-    description: "Python script"
+    description: "Py script"
     required: true
   fail-on-error:
     description: "Fail step if the return code from running the script is non-zero"
