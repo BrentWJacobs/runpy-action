@@ -20,7 +20,7 @@
   "dependencies": {
     "@actions/core": "^1.9.1",
     "@actions/exec": "^1.1.1",
-    "tmp": "^0.2.1"
+    "tmp": "^0.2.4"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.24.1"
